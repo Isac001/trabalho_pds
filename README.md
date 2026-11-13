@@ -11,3 +11,7 @@ Siga os passos abaixo para configurar o ambiente e executar os scripts:
    
    # No Windows (PowerShell):
    .\venv\Scripts\Activate.ps1
+   
+2. ** Rode cada código indidualmente na pasta 'codigos' com o comando:
+   ```bash
+   python3 <nome_do_arquivo>.py

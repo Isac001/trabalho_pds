@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependências e pacotes
+*.manifest
+*.spec
+
+# Arquivos de sistema e editores
+.DS_Store
+.idea/
+.vscode/
